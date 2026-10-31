@@ -1,0 +1,16 @@
+/target/
+/project/target/
+/project/project/
+/.cache/
+/.tools/
+/sbt-launch.jar
+/data/
+/output/
+/logs/
+/.bsp/
+/.idea/
+/.metals/
+/spark-warehouse/
+/derby.log
+__pycache__/
+*.class
